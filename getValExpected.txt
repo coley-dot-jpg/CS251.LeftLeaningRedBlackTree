@@ -1,0 +1,72 @@
+insert 7 231 
+Color: Black; Key: 7
+
+insert 12 309 
+Color: Red; Key: 7
+Color: Black; Key: 12
+
+insert 0 937 
+Color: Black; Key: 0
+Color: Black; Key: 7
+Color: Black; Key: 12
+
+insert 8 260 
+Color: Black; Key: 0
+Color: Black; Key: 7
+Color: Red; Key: 8
+Color: Black; Key: 12
+
+insert 3 287 
+Color: Red; Key: 0
+Color: Black; Key: 3
+Color: Black; Key: 7
+Color: Red; Key: 8
+Color: Black; Key: 12
+
+insert 10 100 
+Color: Red; Key: 0
+Color: Black; Key: 3
+Color: Red; Key: 7
+Color: Black; Key: 8
+Color: Black; Key: 10
+Color: Black; Key: 12
+
+insert 2 200 
+Color: Black; Key: 0
+Color: Black; Key: 2
+Color: Black; Key: 3
+Color: Black; Key: 7
+Color: Black; Key: 8
+Color: Black; Key: 10
+Color: Black; Key: 12
+
+insert 1 1000 
+Color: Red; Key: 0
+Color: Black; Key: 1
+Color: Black; Key: 2
+Color: Black; Key: 3
+Color: Black; Key: 7
+Color: Black; Key: 8
+Color: Black; Key: 10
+Color: Black; Key: 12
+
+insert 15 150 
+Color: Red; Key: 0
+Color: Black; Key: 1
+Color: Black; Key: 2
+Color: Black; Key: 3
+Color: Black; Key: 7
+Color: Black; Key: 8
+Color: Black; Key: 10
+Color: Red; Key: 12
+Color: Black; Key: 15
+
+getval 6 
+10
+
+getval 9 
+null
+
+getval 5 
+8
+

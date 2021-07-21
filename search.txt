@@ -1,0 +1,12 @@
+insert 7 231
+insert 12 309
+insert 0 937
+insert 8 260
+insert 3 287
+insert 10 100
+insert 2 200
+insert 1 1000
+insert 15 150
+search 3
+search 1
+search 20

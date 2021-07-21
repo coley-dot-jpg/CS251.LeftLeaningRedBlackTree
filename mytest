@@ -1,0 +1,32 @@
+insert 7 231
+insert 12 309
+insert 0 937
+insert 8 260
+insert 3 287
+insert 10 100
+insert 2 200
+insert 1 1000
+insert 15 150
+insert 22 1
+insert 4 2
+insert 9 3
+insert 17 4
+insert 19 5
+insert 15 6
+insert 14 7
+insert 23 8
+insert 26 9
+insert 30 10
+insert 40 11
+insert 6 12
+insert 21 13
+delete 19
+delete 6
+delete 7
+delete 3
+delete 23
+delete 1
+delete 4
+delete 5
+delete 26
+delete 10
